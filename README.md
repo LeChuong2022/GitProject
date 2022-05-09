@@ -1,2 +1,2 @@
 # GitProject
-Bai tap su dung kit
+Bai tap su dung git
